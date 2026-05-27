@@ -2,4 +2,5 @@
 
 * [首页](/index.html)
 * [测试页](/test)
-* [测试页](/gh_page)
+* [Github Page](/gh_page)
+* [Help Page](/help)
